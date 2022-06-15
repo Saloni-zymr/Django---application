@@ -1,0 +1,6 @@
+[run]
+source = drf/,flights/,
+omit = venv
+       */migrations/*
+       */tests/*
+       */__init__.py
