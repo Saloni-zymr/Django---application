@@ -57,24 +57,23 @@ local_settings.py
 db.sqlite3
 
 # Flask stuff:
-instance/
-.webassets-cache
+#instance/
+#.webassets-cache
 
 # Scrapy stuff:
-.scrapy
+#.scrapy
 
 # Sphinx documentation
-docs/_build/
+#docs/_build/
 
 # PyBuilder
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+#.ipynb_checkpoints
 
 # pyenv
 .python-version
-
 # celery beat schedule file
 celerybeat-schedule
 

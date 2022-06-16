@@ -13,20 +13,15 @@ I
 drf/wsgi.py,4/d/4d73923fca348c4bd0826aa0bb30313c0dfdacf4
 ;
 drf/asgi.py,6/4/646b1f950dabc2acb2f1147e14fb480f88f43656
-9
-	manage.py,3/1/3156ad13e4d695cd526bbb7b031016ecba842270
-9
-	.coverage,2/4/245d8ec80d138d8104c8f8338a3e2066fd7680d1
-;
-.coveragerc,e/f/eff4cd4a1e08155d42c85e48787c9e4c288b8d02
 @
 flights/admin.py,c/3/c3d7ab882ab6f510883eceecf1f91e4bb8b4f5ab
-F
-flights/serializers.py,2/c/2cf7822b678ec3b830ac3b3be2a49be3fa5830c2
 A
 flights/models.py,6/a/6ac10b24e665783b65dcff5d93bbc75ac6f12131
 ?
 drf/settings.py,a/8/a82ae95dc06f0a3c5f2ef29845d1091b0629ae5e
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	manage.py,3/1/3156ad13e4d695cd526bbb7b031016ecba842270
+;
+.coveragerc,e/f/eff4cd4a1e08155d42c85e48787c9e4c288b8d02
+F
+flights/serializers.py,2/c/2cf7822b678ec3b830ac3b3be2a49be3fa5830c2
